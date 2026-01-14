@@ -29,7 +29,7 @@ AddPackage dmidecode # Desktop Management Interface table related utilities
 AddPackage dmraid # Device mapper RAID interface
 AddPackage dnsmasq # Lightweight, easy to configure DNS forwarder and DHCP server
 AddPackage dosfstools # DOS filesystem utilities
-AddPackage downgrade # Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
+#AddPackage downgrade # Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 AddPackage dracut # An event driven initramfs infrastructure
 AddPackage duf # Disk Usage/Free Utility
 AddPackage e2fsprogs # Ext2/3/4 filesystem utilities
@@ -72,7 +72,7 @@ AddPackage inxi # Full featured CLI system information tool
 AddPackage iptables-nft # Linux kernel packet control tool (using nft interface)
 AddPackage iwd # Internet Wireless Daemon
 AddPackage jfsutils # JFS filesystem utilities
-AddPackage kernel-install-for-dracut # Enables systemd-boot automation using kernel-install with dracut
+#AddPackage kernel-install-for-dracut # Enables systemd-boot automation using kernel-install with dracut
 AddPackage less # A terminal based program for viewing text files
 AddPackage libdvdcss # Portable abstraction library for DVD decryption
 AddPackage libgsf # Extensible I/O abstraction library for dealing with structured file formats
@@ -184,7 +184,7 @@ AddPackage xorg-xkill # Kill a client by its X resource
 AddPackage xorg-xrandr # Primitive command line interface to RandR extension
 AddPackage xterm # X Terminal Emulator
 AddPackage xwayland-satellite # Xwayland outside your Wayland
-AddPackage yay # Yet another yogurt. Pacman wrapper and AUR helper written in go.
+#AddPackage yay # Yet another yogurt. Pacman wrapper and AUR helper written in go.
 AddPackage zed # A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter
 
 
